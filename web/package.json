@@ -1,0 +1,13 @@
+{
+  "name": "cardiac-visualizer-web",
+  "version": "1.0.0",
+  "description": "Cardiac Visualizer - Web Download Landing Page",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Static site - no build step needed\"",
+    "deploy": "vercel deploy --prod"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

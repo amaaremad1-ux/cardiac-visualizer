@@ -1,0 +1,11 @@
+/build*/
+/.tools/
+/exports/
+/.vs/
+*.user
+*.exe
+*.obj
+*.lib
+*.pdb
+*.log
+node_modules/
